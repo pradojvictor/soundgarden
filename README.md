@@ -1,6 +1,6 @@
 # soundgarden
 ## este projeto foi feito em grupo como desafio do GAMA XP 42, pelos integrantes :
-<br>Jão Victor Prado: https://github.com/pradojvictor<br>
+<br>João Victor Prado: https://github.com/pradojvictor<br>
 <br>leonardo Barreiro: https://github.com/leobcss<br>
 <br>Marcelo Borges: https://github.com/marcelobo213<br>
 ##
